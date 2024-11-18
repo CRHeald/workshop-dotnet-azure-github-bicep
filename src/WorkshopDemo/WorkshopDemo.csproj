@@ -22,4 +22,8 @@
       <ProjectReference Include="..\WorkshopDemo.Core\WorkshopDemo.Core.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Include=".github\workflows\ci.yaml" />
+    </ItemGroup>
+
 </Project>
